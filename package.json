@@ -1,0 +1,30 @@
+{
+  "name": "wolle",
+  "version": "1.0.0",
+  "description": "WoL Frontend",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arigata9/Wolle.git"
+  },
+  "keywords": [
+    "net",
+    "wol",
+    "network",
+    "frontend"
+  ],
+  "author": "arigata9",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arigata9/Wolle/issues"
+  },
+  "homepage": "https://github.com/arigata9/Wolle#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "wol": "^1.0.7"
+  }
+}
