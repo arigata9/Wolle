@@ -25,6 +25,7 @@
   "homepage": "https://github.com/arigata9/Wolle#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "express-basic-auth": "^1.2.0",
     "wol": "^1.0.7"
   }
 }

@@ -1,3 +1,7 @@
 {
-    "mac_to_wake": "4C:CC:6A:D1:26:7B"
+    "mac_to_wake": "4C:CC:6A:D1:26:7B",
+    "users": {
+        "admin": "admin"
+    },
+    "serverAddr": "127.0.0.1"
 }
