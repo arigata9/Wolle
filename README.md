@@ -1,5 +1,7 @@
 Wolle
 ======
+![release](https://img.shields.io/github/v/release/arigata9/Wolle.svg) ![tweet](	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Farigata9%2FWolle)
+
 WoL web frontend . Access Wolle from web and start configurated machine. Just what WoL does.
 
 ## Installation
