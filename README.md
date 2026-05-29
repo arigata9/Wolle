@@ -3,6 +3,7 @@ Wolle
 [![release](https://img.shields.io/github/v/release/arigata9/Wolle.svg)](https://github.com/arigata9/Wolle/releases) [![tweet](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Farigata9%2FWolle)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Farigata9%2FWolle)
 
 WoL web frontend . Access Wolle from web and start configurated machine. Just what WoL does.
+**Warning:** This repository is not being maintained anymore. It has lots of security vulnerabilites. Please do not use this.
 
 ## Installation
 Use `git clone` to clone this project to your machine. Assuming you already have node.js and npm installed, just cd into the directory and type `npm install`.
